@@ -1,4 +1,4 @@
-#  Apple Product Portfolio Performance Optimization: Pricing & Performance Analytics
+#  Apple Product Portfolio Performance Optimization
 An end-to-end full-stack data analytics project using SQL, Python, and Power BI
 
 ---
